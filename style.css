@@ -32,7 +32,6 @@ h1 {
 
 h3 {
   padding: 10px;
-  margin: 10px;
   font-size: x-large;
 
   color: black;
@@ -43,6 +42,8 @@ li {
 }
 .domain {
   box-sizing: border-box;
+  margin: 20px;
   border-style: 2px solid white;
-  background: linear-gradient(to right, blue, green, yellow, red);
+  border: green 2px solid;
+  border-radius: 25px;
 }
